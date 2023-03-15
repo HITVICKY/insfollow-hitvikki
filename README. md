@@ -22,6 +22,7 @@ $ chmod +x insfollow.sh
 
 $ termux-wake-lock
 
-$ bash insfollow.sh
+$ bash insfollow.sh 
+   
 
-  (OR) python2 insfollow. Py
+    Just try this
